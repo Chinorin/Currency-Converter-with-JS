@@ -13,7 +13,7 @@ It allows users to convert currencies in real-time using live exchange rates fro
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview.PNG" width="300" />
+  <img src="preview.PNG" width="500" />
 </p>
 
 ## 🚀 How to Use
