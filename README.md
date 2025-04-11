@@ -20,7 +20,7 @@ It allows users to convert currencies in real-time using live exchange rates fro
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/Chinorin/Currency-Converter-with-JS.git
 2.Open index.html in your browser.
 
 3.Select your currencies and enter an amount to convert.   
